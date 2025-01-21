@@ -1,18 +1,12 @@
-<div class="flex flex-grow w-full gap-y-1">
-  <p class="w-full">logo-d4b5dc90fd3e117d141ae7053b157f58.svg</p>
-  <p class="w-[20vh] text-muted">21 Jan 2025</p>
-  <a class="w-[12vh] -pb-8" href="https://github.com/almaheras/blackhole/raw/refs/heads/main/logo-d4b5dc90fd3e117d141ae7053b157f58.svg">Download</a>
-</div>
-
       <div class="flex flex-grow gap-y-1">
         <p class="w-full">Windows 365 Wallpaper 2.jpg</p>
-        <p class="w-[20vh] text-muted">22 Jan 2025</p>
+        <p class="w-[20vh] text-foreground/50">22 Jan 2025</p>
         <a class="w-[12vh]" href="https://github.com/almaheras/blackhole/raw/refs/heads/main/Windows%20365%20Wallpaper%202.jpg">Download</a>
       </div>
     
       <div class="flex flex-grow gap-y-1">
         <p class="w-full">Windows 365 Wallpaper 1.jpg</p>
-        <p class="w-[20vh] text-muted">22 Jan 2025</p>
+        <p class="w-[20vh] text-foreground/50">22 Jan 2025</p>
         <a class="w-[12vh]" href="https://github.com/almaheras/blackhole/raw/refs/heads/main/Windows%20365%20Wallpaper%201.jpg">Download</a>
       </div>
     
