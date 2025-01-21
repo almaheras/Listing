@@ -14,3 +14,9 @@
         </a>
       </div>
     
+      <div class="flex flex-grow gap-y-1">
+        <p class="w-full">76013772_p0.jpg</p>
+        <p class="w-[20vh] text-muted">21 Jan 2025</p>
+        <a class="w-[12vh]" href="https://github.com/almaheras/blackhole/raw/refs/heads/main/76013772_p0.jpg">Download</a>
+      </div>
+    
