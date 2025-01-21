@@ -6,3 +6,11 @@
         </a>
       </div>
     
+
+      <div class="flex flex-grow gap-y-1">
+        <p class="w-full">item_mortal_city.e3fff992.png</p>
+        <p class="w-[20vh] text-muted">21 Jan 2025</p>
+        <a href="https://github.com/almaheras/blackhole/raw/refs/heads/main/item_mortal_city.e3fff992.png">Download
+        </a>
+      </div>
+    
