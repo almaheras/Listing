@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding AI in 2025",
+    "content": "AI is advancing rapidly, and 2025 is a pivotal year for its development. This post explores the future of artificial intelligence.",
+    "author": "John Doe",
+    "date": "2025-02-01"
+  },
+  {
+    "id": 2,
+    "title": "The Future of Electric Cars",
+    "content": "Electric vehicles are becoming more mainstream. What does the future look like for EVs in the next decade?",
+    "author": "Jane Smith",
+    "date": "2025-02-02"
+  },
+  {
+    "id": 3,
+    "title": "The Importance of Mental Health Awareness",
+    "content": "Mental health is just as important as physical health. This post discusses the significance of mental health awareness.",
+    "author": "Emily White",
+    "date": "2025-02-03"
+  },
+  {
+    "id": 4,
+    "title": "How to Stay Productive While Working From Home",
+    "content": "Remote work is here to stay. Discover strategies and tools to help you stay productive while working from home.",
+    "author": "Michael Green",
+    "date": "2025-02-04"
+  }
+]
