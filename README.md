@@ -1048,3 +1048,11 @@
       </div>
     </div>
     
+    <div class="flex flex-grow gap-y-2">
+      <p class="w-full text-left break-words overflow-ellipsis">[CITYPNG.COM]Funny Beluga</p>
+      <p class="w-full text-center flex justify-center items-center text-foreground/50 font-thin font-mono">21 Jun 2025</p>
+      <div class="w-[50%] text-center transition-colors border-foreground/5 backdrop-blur-lg duration-500 ease-in-out hover:border-background bg-foreground/5 py-1 rounded-lg border-0 hover:text-background/80 hover:bg-foreground/80 text-foreground/80 flex justify-center items-center">
+        <a href="https://github.com/almaheras/blackhole/raw/refs/heads/main/%5BCITYPNG.COM%5DFunny%20Beluga%20Meme%20Cat%20HD%20Transparent%20Background%20-%20800x800.png" target="_blank">Download</a>
+      </div>
+    </div>
+    
